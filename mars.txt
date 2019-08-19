@@ -1,8 +1,5 @@
 hello mars. where is the rover?
 The dog took it for a ride across the planet
-<<<<<<< HEAD
 The dog was named rover, so it was Rover driving the rover
-=======
 
 rover was a good b o y e 
->>>>>>> 6ef9ec3db4b02fe5e2e879b7da721452010f4dbc
